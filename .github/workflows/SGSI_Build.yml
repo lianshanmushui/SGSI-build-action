@@ -9,10 +9,10 @@ on:
 env:              
   ROM_URL: 'https://download.exthmui.cn/exthmui/tiffany/exthm-10.0-20210307-UNOFFICIAL-SNAPSHOT-tiffany.zip'
   ZIP_NAME: 'exthm-10.0-20210307-UNOFFICIAL-SNAPSHOT-tiffany.zip'
-  OS_TYPE: 'exTHm'
+  OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '11'
+  VERSION: '12'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
