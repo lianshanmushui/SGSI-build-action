@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'https://download.exthmui.cn/exthmui/tiffany/exthm-10.0-20210307-UNOFFICIAL-SNAPSHOT-tiffany.zip'
+  ZIP_NAME: 'exthm-10.0-20210307-UNOFFICIAL-SNAPSHOT-tiffany.zip'
+  OS_TYPE: 'exTHm'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
