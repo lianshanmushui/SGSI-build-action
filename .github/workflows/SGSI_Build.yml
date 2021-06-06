@@ -12,7 +12,7 @@ env:
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
